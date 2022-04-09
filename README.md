@@ -6,3 +6,9 @@ The original watch face at [examples/WatchFaces/Pokemon/](https://github.com/sqf
 * Date (day/month format) (below Pikachu's health)
 
 ![pokemon advance](docs/pokemon-advance.jpg)
+
+## Build
+
+```
+pio run -t upload
+```
